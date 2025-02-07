@@ -1,4 +1,4 @@
-# Projeto: Sistema de Gereniamento de Notas
+# Projeto: Sistema de Gerenciamento de Notas
 Sistema para gerenciamento de notas dos alunos, onde é possível:
 
 * Adicionar alunos 
